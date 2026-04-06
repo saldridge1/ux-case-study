@@ -251,4 +251,12 @@ This case study is a **methodology template**. To create your own:
 
 ---
 
+## Support This Work
+
+If this framework has been useful for your GovCon pursuits, consider buying me a coffee. It helps me keep building open source tools for the design and GovCon community.
+
+☕ [Buy Me a Coffee](https://buymeacoffee.com/teamdesignstudios)
+
+---
+
 *Created by Susan E. Aldridge | [LinkedIn](https://www.linkedin.com/in/susanealdridge/) | [Portfolio](https://docsend.com/view/s/9bzhycnqab7k92nq)*
